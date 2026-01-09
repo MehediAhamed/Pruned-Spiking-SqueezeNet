@@ -1,6 +1,4 @@
-### From Lightweight CNNs to SpikeNets: Benchmarking Accuracy–Energy Tradeoffs with Pruned Spiking SqueezeNet  
-
-*Code will be released after conference proceedings*
+## From Lightweight CNNs to SpikeNets: Benchmarking Accuracy–Energy Tradeoffs with Pruned Spiking SqueezeNet  
 
 ---
 
